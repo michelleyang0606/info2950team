@@ -34,12 +34,12 @@ Files:
 5. https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews?select=reviews.csv
 (Anime Dataset from myanimelist.net (animes, profiles, reviews) as 2020)
 Files:
-- **animes_marlesson_jan20.csv**
+- **animes_marlesson_may20.csv**
 list of anime, genre, studio, producer, duration, rating, score, airing date, episodes, source (manga, light nov, etc) and many other important data abt individual anime
 Rank is in float format, but only contains int value. This is due to NaN values and representation in pandas
-- **profiles_marlesson_jan20.csv**
+- **profiles_marlesson_may20.csv**
 contains information about users who watch anime, namely username, birth date, gender, and favorite animes list.
-- **reviews_marlesson_jan20.csv**
+- **reviews_marlesson_may20.csv**
 contains information about reviews users x animes, with text review and scores.
 
 ## DATASETS NOT USING -- use if missing info
