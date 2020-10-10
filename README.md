@@ -11,7 +11,7 @@ More than 10,000 unique Anime works. (animeID, episodes, genre)
 2. https://www.kaggle.com/canggih/anime-data-score-staff-synopsis-and-genre
 (1563 anime data)
 Files:
-- **dataanime.csv** (title, type, episodes, status, start/end airing, starting season, broadcast time, producers, studios, sources, genres, duration, rating,
+- **dataanime_sept2019.csv** (title, type, episodes, status, start/end airing, starting season, broadcast time, producers, studios, sources, genres, duration, rating,
 score, scored by, members, favorites, description)
 
 3. https://www.kaggle.com/alancmathew/anime-dataset
