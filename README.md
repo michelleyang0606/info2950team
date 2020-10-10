@@ -25,7 +25,7 @@ dropped, rating, votes)
 (65 million user anime ratings, 300k users and 17k animes )
 Files:
 - **MAL_anime_sept20.csv**
-17,058 animes containing information on title, anime_id, airing status, number of episodes, and synopsis.
+17,058 animes containing information on title, anime_id, airing status, number of episodes, and synopsis. Does not contain data on anime rating -- only ratings for individual users 
 - **user_watches_sept20.csv**
  68,235,827 user animelist ratings with the score and watch status.
 - **usersID_sept20.csv**
